@@ -4,6 +4,7 @@
 
 ***Tuesday, 22nd June 2021***
 
-###Learning from Coursera
+***Learning from Coursera
+
 -> Added tf2 first code for making a single neural network.
   - tf2-Hello-World.ipynb (with notes on introduction)
