@@ -13,3 +13,4 @@
 -> Added CV folder and fasion MNIST Code
   - Fashion_MNIST_selftry.ipynb is my attempt for code [No Notes]
   - Course 1 - Part 4 - Lesson 2 - Notebook.ipynb [With Notes]
+  - ***READ*** *Exploration Exercises*
