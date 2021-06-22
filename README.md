@@ -8,3 +8,4 @@
 
 -> Added tf2 first code for making a single neural network.
   - tf2-Hello-World.ipynb (with notes on introduction)
+  - House Price Prediction using neural netowrks [Exercise 1]
