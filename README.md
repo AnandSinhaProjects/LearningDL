@@ -9,3 +9,6 @@
 -> Added tf2 first code for making a single neural network.
   - tf2-Hello-World.ipynb (with notes on introduction)
   - House Price Prediction using neural netowrks [Exercise 1]
+
+-> Added CV folder and fasion MNIST Code
+  - Fashion_MNIST_selftry.ipynb is my attempt for code [No Notes]
