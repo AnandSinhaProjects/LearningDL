@@ -15,3 +15,4 @@
   - Course 1 - Part 4 - Lesson 2 - Notebook.ipynb [With Notes]
   - ***READ*** *Exploration Exercises*
   - Handwriting Recognition
+  - Convolution Implementation
