@@ -17,5 +17,5 @@
   - Handwriting Recognition
   - Convolution Implementation
 
-[] Need to add CNN notes 
-[] Need to add CNN code 
+-> Need to add CNN notes 
+-> Need to add CNN code 
