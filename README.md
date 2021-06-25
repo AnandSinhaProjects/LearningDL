@@ -16,3 +16,5 @@
   - ***READ*** *Exploration Exercises*
   - Handwriting Recognition
   - Convolution Implementation
+
+->Need to add CNN notes 
