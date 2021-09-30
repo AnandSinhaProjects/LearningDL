@@ -16,6 +16,9 @@
   - ***READ*** *Exploration Exercises*
   - Handwriting Recognition
   - Convolution Implementation
+  - Multiple RMSprop Implementation
+  - Added Code for Exercise
+  - Added Horse or Human
 
 -> Need to add CNN notes 
 -> Need to add CNN code 
